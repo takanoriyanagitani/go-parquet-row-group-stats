@@ -1,0 +1,4 @@
+timestamp,severity,body
+2024-10-03T08:24:17.012345Z,INFO,apt update done
+2023-10-02T08:24:17.012345Z,WARN,apt update failure
+2022-10-02T08:24:17.012345Z,WARN,apt update failure
