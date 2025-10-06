@@ -30,3 +30,6 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+*.swp
+cmd/parquet-row-group-stats/parquet-row-group-stats
+cmd/parquet-row-group-stats/parquet-row-group-stats.wasm
